@@ -23,3 +23,7 @@ Here are some ideas to get you started:
         <img align="right" src="https://github-readme-stats.vercel.app/api?username=MalekLahbib&show_icons=true&locale=en&theme=dark&border_radius=40&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="MalekLahbib" />
     </p>
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MalekLahbib&show_icons=true&locale=en" alt="MalekLahbib" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MalekLahbib" alt="MalekLahbib" /></a> </p>
